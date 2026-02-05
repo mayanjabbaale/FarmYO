@@ -7,4 +7,4 @@ The Dataset has 594 Images of 3 classes:
     - Maize Leaf Blight
     - Maize Streak Virus
 
-Training results:
+Gradio app demo at https://huggingface.co/spaces/arcaneVision/Maize-FarmYO
